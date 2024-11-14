@@ -1,1 +1,4 @@
+This folder contains the Wasserstein GAN stochastic generator for Mekong River Basin based on Besombes et al (2021) (https://npg.copernicus.org/articles/28/347/2021/)
 
+The training part can be found in the wrapper notebook;
+The modified WGAN can be found in wgan_gp_V8_82c - Copy.py
